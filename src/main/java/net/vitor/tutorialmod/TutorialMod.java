@@ -26,6 +26,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.vitor.tutorialmod.block.ModBlocks;
 import net.vitor.tutorialmod.item.ModCreativeModTabs;
 import net.vitor.tutorialmod.item.ModItems;
 
@@ -46,6 +47,7 @@ public class TutorialMod
 
         ModCreativeModTabs.register(modEventBus);
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         

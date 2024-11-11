@@ -1,6 +1,9 @@
 {
     "item.tutorialmod.sapphire": "Safira",
-    "item.tutorialmod.raw_sapphire": "Sáfira bruta",
+    "item.tutorialmod.raw_sapphire": "Sáfira Bruta",
+
+    "block.tutorialmod.sapphire_block": "Bloco de Safira",
+    "block.tutorialmod.raw_sapphire_block": "Bloco de Sáfira Bruta",
 
     "creative.tab.tutorial_tab": "Tutorial da Sáfira"
 }
