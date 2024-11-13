@@ -19,6 +19,7 @@ public class ModCreativeModTabs {
         () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SAPPHIRE.get()))
         .title(Component.translatable("creative.tab.tutorial_tab"))
         .displayItems((pParameters, pOutput) -> {
+            pOutput.accept(ModItems.STRAWBERRY.get());
             pOutput.accept(ModItems.METAL_DETECTOR.get());
             pOutput.accept(ModBlocks.SOUND_BLOCK.get());
 
