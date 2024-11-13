@@ -14,5 +14,8 @@
     "block.tutorialmod.end_stone_sapphire_ore": "End Stone Sapphire Ore",
 
 
-    "creative.tab.tutorial_tab": "Tutorial tab Sapphire"
+    "creative.tab.tutorial_tab": "Tutorial tab Sapphire",
+
+    "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuable metals!",
+    "tooltip.tutorialmod.sound_block.tooltip": "Plays a sound when clicked!"
 }

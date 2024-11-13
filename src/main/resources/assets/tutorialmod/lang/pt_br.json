@@ -13,5 +13,9 @@
     "block.tutorialmod.nether_sapphire_ore": "Minério de Safira do Nether",
     "block.tutorialmod.end_stone_sapphire_ore": "Minério de Safira de Pedra do fim",
 
-    "creative.tab.tutorial_tab": "Tutorial da Sáfira"
+    "creative.tab.tutorial_tab": "Tutorial da Sáfira",
+
+    "tooltip.tutorialmod.metal_detector.tooltip": "Detecta metais preciosos!",
+    "tooltip.tutorialmod.sound_block.tooltip": "Produz um som quando clicado!"
+
 }
