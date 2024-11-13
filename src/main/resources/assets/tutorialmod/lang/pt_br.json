@@ -1,9 +1,15 @@
 {
+    "item.tutorialmod.metal_detector": "Detector de Metais",
     "item.tutorialmod.sapphire": "Safira",
     "item.tutorialmod.raw_sapphire": "Sáfira Bruta",
 
+    "block.tutorialmod.sound_block": "Bloco de Notas",
     "block.tutorialmod.sapphire_block": "Bloco de Safira",
     "block.tutorialmod.raw_sapphire_block": "Bloco de Sáfira Bruta",
+    "block.tutorialmod.sapphire_ore": "Minério de Safira",
+    "block.tutorialmod.deepslate_sapphire_ore": "Minério de Safira de Andrósia",
+    "block.tutorialmod.nether_sapphire_ore": "Minério de Safira do Nether",
+    "block.tutorialmod.end_stone_sapphire_ore": "Minério de Safira de Pedra do fim",
 
     "creative.tab.tutorial_tab": "Tutorial da Sáfira"
 }
